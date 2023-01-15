@@ -1,0 +1,10 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.gdf{
+    height:10vh;
+    width:100%;
+    border: 1px solid red;
+}
